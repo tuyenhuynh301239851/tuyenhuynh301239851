@@ -9,3 +9,4 @@ Here are some information about me:
 - 📫 How to reach me: https://www.linkedin.com/in/jadehuynh3012/
 
 ![](https://komarev.com/ghpvc/?username=tuyenhuynh301239851)
+![](https://komarev.com/ghpvc/?username=tuyenhuynh301239851&color=green)
