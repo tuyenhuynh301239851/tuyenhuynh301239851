@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ✨ I'm Jade (Ms Tuyen) ✨ 
+
 I'm curious about programming and data science, and I'm always eager to learn and update my knowledge.
 
 Here are some information about me:
