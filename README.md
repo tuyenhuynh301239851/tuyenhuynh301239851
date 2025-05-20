@@ -7,4 +7,5 @@ Here are some information about me:
 - 🔭 I’m currently working on HomeCredit
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me: https://www.linkedin.com/in/jadehuynh3012/
+
 ![](https://komarev.com/ghpvc/?username=tuyenhuynh301239851)
